@@ -1,0 +1,25 @@
+#ogedei{
+    font-family: Harrington, Tempus Sans ITC;
+  color: red;
+  background-color:dodgerblue ;
+}
+#temur{
+    font-family: Harrington, Tempus Sans ITC;
+  color: green;
+   background-color:red ;
+}
+#kublai{
+    font-family: Harrington, Tempus Sans ITC;
+  color: orange;
+  background-color:yellow ;
+    }
+#khan{
+      text-align: right;
+    }
+#table{
+  text-align: center;
+  width: 50% !important;margin: auto;
+}
+.number{
+  font-weight: bold
+}

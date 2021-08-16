@@ -1,0 +1,22 @@
+a{
+    color: blue;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+span{
+    color: initial;
+    color: red;
+
+}
+p strong{
+    font-size: small;
+    
+}
+
+.destaque{
+background: #FFC;
+padding: 1em;
+}
+#unico{
+    font-weight: bolder;
+}
